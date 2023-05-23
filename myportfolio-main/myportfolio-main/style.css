@@ -1,0 +1,22 @@
+body{ 
+    margin: 0px;
+    padding: 0px;
+    background-color: aquamarine;
+}
+.nav-bar{
+ background-color: white;
+
+}
+.nav-container{
+    display: flex;
+    justify-content: center;
+}
+.nav-link{
+    margin: 8px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+p{
+    font-size: larger;
+}
